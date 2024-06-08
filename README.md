@@ -1,1 +1,1 @@
-# introducci-n_numpy_matplotlib
+# introduccin numpy matplotlib
